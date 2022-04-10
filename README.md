@@ -19,9 +19,10 @@
 ### How is the school summary affected?
 
 #### Original School Summary
-
+![Original Top Schools](https://user-images.githubusercontent.com/100816778/162628533-fd51c977-9fef-484c-b375-2ca73dfb4763.png)
 
 #### Updated School Summary
+![Updated Top Schools](https://user-images.githubusercontent.com/100816778/162628537-fb658ad5-f0ef-4eed-ac0e-69f909128d4f.png)
 
 ### How does replacing the ninth grader's math and reding scores affect Thomas High School's performance relative to the other schools?
 
