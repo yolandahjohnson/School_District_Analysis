@@ -66,12 +66,10 @@ Again, replacing the 9th grade math and reading scores with Nan had very little 
 #### Original Scores by School Size
 ![Original School Size Summary](https://user-images.githubusercontent.com/100816778/162628243-35d3b1c5-482f-45d6-8580-f4d5e11cd536.png)
 
-
-
 #### Updated Scores by School Size
 ![Updated School Size Summary](https://user-images.githubusercontent.com/100816778/162628237-88e76e71-101b-4ce2-9b6c-ba7eba9ab0be.png)
 
-
+There was very little change to no change to scores based on school size
 
 #### Original Scores by School Type
 ![Original School Type Summary](https://user-images.githubusercontent.com/100816778/162628231-c9e7f7b2-9c23-4a36-9095-2d6e9f49ae0a.png)
@@ -79,4 +77,10 @@ Again, replacing the 9th grade math and reading scores with Nan had very little 
 #### Updated Scores by School Type
 ![Update School Type Summary](https://user-images.githubusercontent.com/100816778/162628193-47eaea84-6108-46d3-9980-a643be01d84f.png)
 
+There was very little to no change to scores based on school type.
+
 ## Summary
+District Summary - There was very little changes to all scores. Any change was by less than 0.5 percentage points. There was no change to school or student count.
+Top School Ranking - Thomas High School school ranking did not change. It's 9th graders made up approximately 1% of the overall student body in the district. 
+Scores by School Size - Thomas High School's scores based on its size of Medium (1000-2000) was affected by 0.1 percentage points.
+Scores by School Type - chages to Charter type scores was affect by less than 0.1 percentage points.
