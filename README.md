@@ -8,4 +8,18 @@
 
 ## Results:
 
-###
+### How is the district summary affected?
+
+#### Original District Summary
+![Original District Summary](https://user-images.githubusercontent.com/100816778/162599456-f6bbe1bb-4865-4d47-88b4-f55f2b5d5b00.png)
+
+#### Updated District Summary
+![Updated District Summary](https://user-images.githubusercontent.com/100816778/162599465-86f7e7dc-a570-49b9-9746-a545f6ae8d08.png)
+
+### How is the school summary affected?
+
+#### Original School Summary
+
+
+#### Updated School Summary
+
